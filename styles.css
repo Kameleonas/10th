@@ -1,0 +1,12 @@
+nav {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.BOX{
+    width: 50vh;
+    height: 25vh;
+    border: solid black;
+    border-width: 0.5vh;
+    background-color: blue;
+}
